@@ -1,6 +1,6 @@
 # EpubParser
 
-EpubParser is a java library for parsing epub files.
+EpubParser is a java library for parsing epub files. EPUB 解压
 
 EpubParser lets you read the epub content page by page. It aims to reduce memory consumption. It is useful for large epub files.
 
